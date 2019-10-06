@@ -1,3 +1,5 @@
+This project is my solution of a freecodecamp challenge.
+
 # API Project: URL Shortener Microservice for freeCodeCamp
 
 
